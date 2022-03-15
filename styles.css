@@ -245,7 +245,12 @@ p{
    .title{
        text-align: center;
    }
-
+.Logo{
+        position: static;
+        margin-left: 5%;
+        margin-right: 5%;
+        min-width: 20%;
+   }
    .baby{
     position: static;
     
